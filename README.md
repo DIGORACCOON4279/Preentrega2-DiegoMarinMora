@@ -53,6 +53,7 @@ En esta segunda Preentrega se avanza en la estructura y programacion del proyect
 >> ** En el footer estan las redes sociales y varios links para tambien navegar entre categories y products, a las opciones sin relevancia se
 >>    le asignaron un routing a la page Error404.</br>
 >> ** Se crea un archivo llamado asyncmock.js para guardar un array de objetos llamado "products", el cual contiene 40 productos</br>
+>> ** Posicionamiento SEO (no esta en la consigna)</br>
 
 A continuacion muestro algunas imagenes del proyecto </br>
 
