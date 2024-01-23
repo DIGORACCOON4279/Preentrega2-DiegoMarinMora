@@ -53,7 +53,7 @@ En esta segunda Preentrega se avanza en la estructura y programacion del proyect
 >> ** En el footer estan las redes sociales y varios links para tambien navegar entre categories y products, a las opciones sin relevancia se
 >>    le asignaron un routing a la page Error404.</br>
 >> ** Se crea un archivo llamado asyncmock.js para guardar un array de objetos llamado "products", el cual contiene 40 productos</br>
->> ** En el archivo asyncmock se palica setTimeOut a getProducts, getOneProduct & getProductsByCategory con un tiempo de renderizado de espera de 2000ms</br>
+>> ** En el archivo asyncmock se aplica setTimeOut a getProducts, getOneProduct & getProductsByCategory con un tiempo de renderizado de espera de 2000ms</br>
 >> ** Posicionamiento SEO (no esta en la consigna)</br>
 
 A continuacion muestro algunas imagenes del proyecto </br>
