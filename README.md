@@ -44,12 +44,12 @@ En esta segunda Preentrega se avanza en la estructura y programacion del proyect
 >> ** La navbar cuenta con: logo, user, shoppingCart & menu desplegable.</br>
 >> ** El menu desplegable cuenta con 5 secciones home, products, categories, services & contact us</br>
 >> ** Detallo que al realizar una secccion categories con 4 opciones: smartphones, laptops, headset & smartTVs </br>
->> ** Se realiza la seccion de descripcion de cada producto con:</br>
+>> ** Se realiza la seccion de descripcion(ItemDeteilContainer) de cada producto con:</br>
 >>     ✔Key Features</br>
 >>     ✔Connectivity and Compatibility</br>
 >>     ✔Operating System and Updates</br>
 >>     ✔Con su respectivo precio, rating, stock, & add to cart</br>
->> ** Cada cart de los productos explica su categoria, id, precio, imagen, referencia & rating y boton "see more..."</br>
+>> ** Cada cart de los productos explica su categoria, id, precio, imagen, referencia & rating y boton "View product..."</br>
 >> ** En el footer estan las redes sociales y varios links para tambien navegar entre categories y products, a las opciones sin relevancia se
 >>    le asignaron un routing a la page Error404.</br>
 >> ** Se crea un archivo llamado asyncmock.js para guardar un array de objetos llamado "products", el cual contiene 40 productos</br>
