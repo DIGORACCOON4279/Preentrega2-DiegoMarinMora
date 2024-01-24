@@ -40,7 +40,7 @@ En esta segunda Preentrega se avanza en la estructura y programacion del proyect
 >>    ✔Navbar con cart</br>
 >>    ✔Catálogo</br>
 >>    ✔Detalle de producto</br>
->> ** La app contiene landing page, Error404, catalogo, descripcion por producto, 4 categorias, shoppingCart, createAccounr, menu con 5 secciones.</br>
+>> ** La app contiene landing page, Error404, catalogo, descripcion por producto, 4 categorias, shoppingCart, createAccount, menu con 5 secciones.</br>
 >> ** La navbar cuenta con: logo, user, shoppingCart & menu desplegable.</br>
 >> ** El menu desplegable cuenta con 5 secciones home, products, categories, services & contact us</br>
 >> ** Detallo que al realizar una secccion categories con 4 opciones: smartphones, laptops, headset & smartTVs </br>
